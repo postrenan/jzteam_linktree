@@ -6,7 +6,7 @@
           src="../assets/WhiteLogo.jpg"
           alt="Foto logo da GrandTur passeio, um circulo com um onibus na cor "
         />
-        <h1>GrandTur passeios</h1>
+        <h1>Grandtour passeios</h1>
         <q>Nosso compromisso é com seu sonho</q>
       </div>
 
@@ -34,7 +34,7 @@
       </div>
 
       <footer>
-        <p>GrandTur © 2023. Todos os direitos reservados.</p>
+        <p>Grandtour © 2023. Todos os direitos reservados.</p>
       </footer>
     </div>
   </main>
