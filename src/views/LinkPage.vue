@@ -12,7 +12,7 @@
 
       <ul>
         <li>
-          <a href="mailto:grandtourpasseios@gmail.com?subject={ Seu nome } Interrese em viagem/pacote &cc=&body=Olá me chamo { seu nome } e gostaria de saber mais sobre os pacotes para { destino }" target="_blank">Mais informações</a>
+          <a target="_blank">Mais informações</a>
         </li>
         <li>
           <a href="https://api.whatsapp.com/send?phone=5596338952&text=Olá! Quero fazer parte do JZTeam!" target="_blank">Consultoria online</a>
@@ -23,10 +23,6 @@
         <a href="https://www.instagram.com/julioo_zalamena/" target="_blank">
           <i class="icon ion-logo-instagram"></i>
         </a>
-        <a href="mailto:grandturpasseios@gmail.com?subject={ Seu nome } Interrese em viagem/pacote &cc=&body=Olá me chamo { seu nome } e gostaria de saber mais sobre os pacotes para { destino }" target="_blank">
-          <i class="icon ion-md-mail"></i>
-        </a>
-      
       </div>
 
       <footer>
