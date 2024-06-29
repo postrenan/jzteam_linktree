@@ -51,10 +51,10 @@
 }
 
 :root {
-  --text-color:rgb(36,83,116);
-  --bg: rgb(245, 208, 113);
+  --text-color: rgb(255, 255, 255);
+  --bg: rgb(99,99,99);
   --stroke-color: rgba(255, 255, 255, 0.5);
-  --surface-color: rgb(255, 255, 255);
+  --surface-color: rgb(39,107,160);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(255, 255, 255, 0.2);
 }
