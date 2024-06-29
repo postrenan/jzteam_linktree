@@ -12,7 +12,7 @@
 
       <ul>
         <li>
-          <a target="_blank">Mais informações</a>
+          <a src="../" target="_blank">Mais informações</a>
         </li>
         <li>
           <a href="https://api.whatsapp.com/send?phone=5596338952&text=Olá! Quero fazer parte do JZTeam!" target="_blank">Consultoria online</a>
@@ -61,7 +61,7 @@
 
 
 body {
-  background: var(--bg) no-repeat top center/cover;
+  background: url("../assets/img_1.png") no-repeat top center;
   min-height: 100vh;
 }
 
