@@ -12,7 +12,7 @@
 
       <ul>
         <li>
-          <a src="../" target="_blank">Mais informações</a>
+          <a href="https://drive.google.com/file/d/1vkMKPbPnowv1j9k4QUMT_NMM9zBB8HFZ/view?usp=drive_linkview" target="_blank">Mais informações</a>
         </li>
         <li>
           <a href="https://api.whatsapp.com/send?phone=5596338952&text=Olá! Quero fazer parte do JZTeam!" target="_blank">Consultoria online</a>
