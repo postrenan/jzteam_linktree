@@ -17,6 +17,9 @@
         <li>
           <a href="https://api.whatsapp.com/send?phone=5596338952&text=Olá! Quero fazer parte do JZTeam!" target="_blank">Consultoria online</a>
         </li>
+         <li>
+          <a href="https://www.instagram.com/bruxosuplementos?igsh=d2ZnMHZhcmFlZm0=" target="_blank">Bruxo Suplementos</a>
+        </li>
       </ul>
 
       <div id="social-links">
